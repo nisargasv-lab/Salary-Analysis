@@ -64,11 +64,19 @@ This project helped me improve my Excel skills by working with real-world data. 
 - Dashboard Screenshot.png
 
 ---
-
 ## Dashboard Preview
 
-![Dashboard](Dashboard/Dashboard.png)
+### Dashboard
+![Dashboard]Dashboard.png
 
+### Skill Analysis
+![Skill Analysis]skillanalysis.png
+
+### Top Skills
+![Top Skills]topskills.png
+
+### Top Skills vs Salary
+![Top Skills vs Salary]topskillssalary.png
 
 ```
 
