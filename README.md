@@ -67,7 +67,7 @@ This project helped me improve my Excel skills by working with real-world data. 
 
 ## Dashboard Preview
 
-![Dashboard]Dashboard.png
+![Dashboard](Dashboard/Dashboard.png)
 
 
 ```
