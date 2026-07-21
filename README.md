@@ -67,7 +67,7 @@ This project helped me improve my Excel skills by working with real-world data. 
 
 ## Dashboard Preview
 
-![Dashboard]Screenshot 2026-07-21 163611.png
+![Dashboard]Dashboard.png
 
 
 ```
