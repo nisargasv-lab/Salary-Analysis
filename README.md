@@ -67,10 +67,9 @@ This project helped me improve my Excel skills by working with real-world data. 
 
 ## Dashboard Preview
 
-*(Add a screenshot of your dashboard here.)*
+Screenshot 2026-07-21 163611.png
 
-```markdown
-![Dashboard](dashboard.png)
+
 ```
 
 ---
